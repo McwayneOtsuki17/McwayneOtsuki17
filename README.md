@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Konnichiwa! I am Otsuki, McWayne👋</h1>
+  
 <!--
 **McwayneOtsuki17/McwayneOtsuki17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
